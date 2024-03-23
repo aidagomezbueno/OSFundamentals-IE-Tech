@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Borja",
+    "ticketCount": 2,
+    "timeInStore": 0.4,
+    "joinDelay": 0.0,
+    "VIP": false
+  },
+  {
+    "name": "Alessandro",
+    "ticketCount": 4,
+    "timeInStore": 0.2,
+    "joinDelay": 4.3,
+    "VIP": true
+  },
+  {
+    "name": "Carolina",
+    "ticketCount": 2,
+    "timeInStore": 2,
+    "joinDelay": 1.5,
+    "VIP": true
+  },
+  {
+    "name": "Diego",
+    "ticketCount": 2,
+    "timeInStore": 3.0,
+    "joinDelay": 0.2,
+    "VIP": false
+  },
+  {
+    "name": "Elena",
+    "ticketCount": 1,
+    "timeInStore": 1.5,
+    "joinDelay": 0.5,
+    "VIP": false
+  },
+  {
+    "name": "Fernando",
+    "ticketCount": 3,
+    "timeInStore": 0.7,
+    "joinDelay": 3.2,
+    "VIP": true
+  },
+  {
+    "name": "Gabriela",
+    "ticketCount": 2,
+    "timeInStore": 1.2,
+    "joinDelay": 2.1,
+    "VIP": false
+  },
+  {
+    "name": "Hector",
+    "ticketCount": 2,
+    "timeInStore": 2.5,
+    "joinDelay": 1.0,
+    "VIP": true
+  },
+  {
+    "name": "Isabel",
+    "ticketCount": 4,
+    "timeInStore": 0.8,
+    "joinDelay": 2.5,
+    "VIP": false
+  },
+  {
+    "name": "Jorge",
+    "ticketCount": 1,
+    "timeInStore": 3.5,
+    "joinDelay": 0.3,
+    "VIP": true
+  }
+]
